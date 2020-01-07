@@ -1,4 +1,4 @@
-# CS 100 Programming Project
+# CS 100 Programming Project: rshell
 
 Summer A1 2019
 
@@ -66,20 +66,4 @@ Prototyping the code has proven to be quite useful, especially because it helps 
 
 ## Development and Testing Roadmap
 The team's development strategy will eventually become more detailed and methodical- especially, as the team further understand what is required in our program. For the moment, the team will be following a top-down analysis and early prototyping. Therefore, the team will look at the various aspects of the program and code accordingly. The team will also be using the open/closed principle (OCP),  which proposes that classes should be open for  extension, but closed for modification. This strategy uses composition instead of inheritance. The team has agreed to follow certain protocols to ensure that work is done without any major complications, these include: that development will be carried out with continued communication and collaboration, branches will be used to separate the work properly and mimimize collisions and the code will be tested as it is created in steps to avoid having errors pile up. The team members will utilize time effectively through meeting up and actively designing and implementing the code. This ensures that work will be accomplished with any and all issues being addressed immediately. The team will plan out and agree upon our objective and approach towards utilizing fork, waitpid, and execvp mentioned in the class descriptions.  The team will remain in contact throughout the course of program implementation to keep track of progress.  The team will also implement test cases together and review each other’s work, and then integrate divided work by merging branches on Github once everything has been agreed upon.  With this in mind the taks will be compleated as such, with testing assumed to be done throughout:
-
-Lists of task to complete:
-* Create CommandBase and other classes: Kirsten
-(https://github.com/cs100/assignment-a1_llk/issues/2)
-* Create various integration tests (assn3): Laila
-(https://github.com/cs100/assignment-a1_llk/issues/7)
-* Create various integration tests (assn4): Lindsey
-(https://github.com/cs100/assignment-a1_llk/issues/8)
-* Add the Test functionality with [] use: Kirsten
-(https://github.com/cs100/assignment-a1_llk/issues/21)
-* Add the () functionality: Kirsten
-(https://github.com/cs100/assignment-a1_llk/issues/22)
-* Add the redirection functionality: Kirsten
-(https://github.com/cs100/assignment-a1_llk/issues/32)
-* Add the | functionality: Laila and Lindsey
-(https://github.com/cs100/assignment-a1_llk/issues/33)
 
